@@ -9,4 +9,4 @@ You can get back whether evens, odds or notmal sequence
 ## Sort Prime Numbers
 Sorts prime number till a particular number  
 
-![Prime Numbers JavaScript](https://i.hizliresim.com/85zd3kx.png)
+![Prime Numbers JavaScript](https://i.hizliresim.com/kica2ea.png)

@@ -1,4 +1,4 @@
-const isPrime = function (n){
+const sortPrimes = function (n){
 
   return [...Array(n).keys()].slice(3)
     .reduce((acc, curr) => {
