@@ -7,6 +7,6 @@ You can get back whether evens, odds or notmal sequence
 ![Fibonacci Sequence JavaScript](https://i.hizliresim.com/4j9zb09.png)
 
 ## Sort Prime Numbers
-Sorts prime number till a particular number  
+Sorts prime numbers till a particular number  
 
 ![Prime Numbers JavaScript](https://i.hizliresim.com/85zd3kx.png)
