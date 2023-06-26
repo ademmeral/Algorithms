@@ -9,4 +9,4 @@ You can get back whether evens, odds or notmal sequence
 ## Sort Prime Numbers
 Sorts prime numbers till a particular number.
 
-![sort_primes](https://github.com/ademmeral/Algorithms/assets/107725052/be6f6c6c-4753-40c2-bca5-36a222f957c2)
+![sort_primes](https://github.com/ademmeral/Algorithms/assets/107725052/d1032995-b74f-4b01-a4ec-47fa9ef375a3)
