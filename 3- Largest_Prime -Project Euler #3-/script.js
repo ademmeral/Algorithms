@@ -1,23 +1,23 @@
 const sortPrimes = function (n){
-  let isPrime = true;
-  const primes = [2];
 
   if (n < 2) throw new Error('Primes start from 2');
 
+  let flag = true;
+  let largestPrime = 2;
   for(let x = 3; x <= n; x++) {
 
     for (let y = 2; y < x; y++) {
       if (x % y === 0) {
-        isPrime = false;
+        flag = false;
         break;
-      } else isPrime = true;
-    }
+      } else flag = true;
 
-    if (isPrime) primes.push(x);
+      if(flag) largestPrime = x;
+    }
   }
 
-  return primes;
+  return largestPrime;
 }
 
-console.log( sortPrimes(210) )
+console.log( sortPrimes(18) )
 
