@@ -8,7 +8,4 @@ You can get back whether evens, odds or notmal sequence
 
 ## Sort Prime Numbers
 Sorts prime numbers till a particular number. If number greater than 2^32 - 1, then use the primitive way ;)
-#### "Moder JS"
-![Prime Numbers JavaScript](https://i.hizliresim.com/85zd3kx.png)
-#### Primitive
-![sort_primes](https://github.com/ademmeral/Algorithms/assets/107725052/73bd4812-f6ba-4a9d-91af-e2741fa81507)
+![sort_primes](https://github.com/ademmeral/Algorithms/assets/107725052/be6f6c6c-4753-40c2-bca5-36a222f957c2)
