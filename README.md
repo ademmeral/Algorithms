@@ -11,4 +11,4 @@ Sorts prime numbers till a particular number. If number greater than 2^32 - 1, t
 #### "Moder JS"
 ![Prime Numbers JavaScript](https://i.hizliresim.com/85zd3kx.png)
 #### Primitive
-![sort_primes](https://github.com/ademmeral/Algorithms/assets/107725052/03a5243c-908d-4c36-9c85-76502742216e)
+![sort_primes](https://github.com/ademmeral/Algorithms/assets/107725052/73bd4812-f6ba-4a9d-91af-e2741fa81507)
