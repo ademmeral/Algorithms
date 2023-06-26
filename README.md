@@ -7,5 +7,6 @@ You can get back whether evens, odds or notmal sequence
 ![Fibonacci Sequence JavaScript](https://i.hizliresim.com/4j9zb09.png)
 
 ## Sort Prime Numbers
-Sorts prime numbers till a particular number. If number greater than 2^32 - 1, then use the primitive way ;)
+Sorts prime numbers till a particular number.
+
 ![sort_primes](https://github.com/ademmeral/Algorithms/assets/107725052/be6f6c6c-4753-40c2-bca5-36a222f957c2)
