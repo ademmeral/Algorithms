@@ -1,15 +1,23 @@
 const sortPrimes = function (n){
+  let isPrime = true;
+  const primes = [2];
 
-  return [...Array(n).keys()].slice(3)
-    .reduce((acc, curr) => {
+  if (n < 2) throw new Error('Primes numbers starts with 2');
 
-      const cond = [...Array(curr).keys()].slice(2)
-        .every(int => curr % int != 0);
+  for(let x = 3; x <= n; x++) {
 
-      if( cond ) acc.push(curr);
+    for (let y = 2; y < x; y++) {
+      if (x % y === 0) {
+        isPrime = false;
+        break;
+      } else isPrime = true;
+    }
 
-      return acc;
-
-    }, [])
+    if (isPrime) primes.push(x);
+  }
+  
+  return primes;
 }
+
+console.log( sortPrimes(2) )
 
