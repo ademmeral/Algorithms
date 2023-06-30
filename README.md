@@ -18,3 +18,6 @@ You can generate a palindrom, check whether a number is palindrom, and find the 
 
 ## Smallest Multiple (LMC)
 There is both es6 version and es5. According to my aspect, es5 has more performant.
+
+## Sum Square Difference
+It's just like the title
