@@ -15,3 +15,6 @@ Sorts prime numbers till a particular number, then finds the largest one.
 
 ## Largest Palindrome
 You can generate a palindrom, check whether a number is palindrom, and find the largest palindrome.
+
+## Smallest Multiple (LMC)
+There is both es6 version and es5. According to my aspect, es5 has more performant.
