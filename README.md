@@ -6,7 +6,10 @@ You can get back whether evens, odds or notmal sequence
 
 ![Fibonacci Sequence JavaScript](https://i.hizliresim.com/4j9zb09.png)
 
-## Sort Prime Numbers
-Sorts prime numbers till a particular number.
+## Sort Primes & Largest Prime Number
+Sorts prime numbers till a particular number, then finds the largest one.
 
 ![sort_primes](https://github.com/ademmeral/Algorithms/assets/107725052/d1032995-b74f-4b01-a4ec-47fa9ef375a3)
+
+## Largest Palindrome
+You can generate a palindrom, check whether a number is palindrom, and find the largest palindrome.
